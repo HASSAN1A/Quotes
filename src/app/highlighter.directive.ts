@@ -1,12 +1,12 @@
 import { Directive, ElementRef } from '@angular/core';
 
 @Directive({
-  selector: '[appHighlight]'
+  selector: '[appHighlighter]'
 })
 export class HighlighterDirective {
 
   constructor(private elem: ElementRef) {
-    this.elem.nativeElement.style.backgroundColor = 'yellow';
+    this.elem.nativeElement.style.backgroundColor = 'blue';
   }
 
 }
