@@ -13,7 +13,7 @@ export class QuotesComponent implements OnInit {
     new Quote(1, "Silence is the sleep that nourishes wisdom.", 'WARREN G. BENNIS', new Date(2017, 5, 4)),
     new Quote(2, "Gamble everything for love, if you're a true human being.", 'MICHAEL JORDAN', new Date(2011, 1, 19)),
     new Quote(3, "Take away love and our earth is a tomb.", 'NAPOLEON BONAPARTE', new Date(2015, 3, 9)),
-    new Quote(4, "Courage is like love; it must have hope for nourishment.", 'HASSAN JUMA', new Date(201, 5, 10)),
+    new Quote(4, "Courage is like love; it must have hope for nourishment.", 'HASSAN JUMA', new Date(2020, 9, 26)),
   ];
 
   toggleDescription(index) {
