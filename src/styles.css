@@ -2,5 +2,6 @@
 @import "~bootstrap/dist/css/bootstrap.css";
 
 body {
-  background-color: #A99793;
+  background-color: #0eeeee;
+  text-align: center;
 }
