@@ -8,7 +8,7 @@ import { QuotesComponent } from './quotes/quotes.component';
 import { QuotesDetailComponent } from './quotes-detail/quotes-detail.component';
 import { HighlighterDirective } from './highlighter.directive';
 import { QuotesFormComponent } from './quotes-form/quotes-form.component';
-// import { from } from 'rxjs'
+import { from } from 'rxjs'
 import { TimeCountPipe } from './time-count.pipe';
 
 @NgModule({
