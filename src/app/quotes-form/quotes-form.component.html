@@ -1,19 +1,13 @@
-<form (ngSubmit)='submitQuote()' #quoteForm='ngForm'>
+<form (ngSubmit)='submitQuote()' #quoteForm='ngForm' ngNativeValidate>
   <div class="form-group">
     <label for='author'>Author</label>
     <input type="text" required class="form-control" id="author" [(ngModel)]="newQuote.author" #author='ngModel'
       name="author">
-    <div [hidden]="author.valid || author.pristine" class="alert alert-danger">
-      <p>Author's name is required</p>
-    </div>
   </div>
   <div class="form-group">
     <label for='name'>Quote</label>
     <textarea type='text' class="form-control" id="name" rows="4" [(ngModel)]='newQuote.name' #name='ngModel'
       name='name' placeholder="Enter Quote..." required></textarea>
-    <div [hidden]="name.valid || name.pristine" class="alert alert-danger">
-      <p>Quote is required</p>
-    </div>
   </div>
   <button type="submit" class="btn btn-primary">Add</button>
 </form>
