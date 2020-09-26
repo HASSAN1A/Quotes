@@ -13,8 +13,8 @@
               </p>
               <p *ngIf='quote.showDescription' id="minimize" class="btn btn-primary" (click)='toggleDescription(i)'>
                 Minimize</p>
-              <app-quote-detail *ngIf='quote.showDescription' [quote]='quote' (wantToDelete)='removeQuote($event, i)'>
-              </app-quote-detail>
+              <app-quotes-detail *ngIf='quote.showDescription' [quote]='quote' (ToDelete)='removeQuote($event, i)'>
+              </app-quotes-detail>
             </div>
           </div>
         </div>
@@ -23,12 +23,10 @@
     <div class="col-md-5">
       <div class="card">
         <div class="card-header alert alert-primary">
-          Add Quote(s)
+          Add New Quote
         </div>
         <div class="card-body">
           <app-quotes-form (addQuote)="addNewQuote($event)"></app-quotes-form>
         </div>
       </div>
     </div>
-  </div>
-</div>
