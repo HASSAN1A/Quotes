@@ -2,6 +2,10 @@
   margin-top: 20px;
 }
 
+.btn-secondary {
+  background-color: blueviolet;
+}
+
 .card-text {
   font-size: 15px;
   font-weight: bold;
