@@ -1,11 +1,11 @@
-# Quotes [Quotes]
+# Quotes
 
 
   A very interactive  quots web app  that uses forms to let someone view ,add,vote and delete quote and share it with others who may visit the website.
 
 ## Demo
 
-Here is a working live demo :https://hassan1a.github.io/Covid-Updates/
+Here is a working live demo :https://hassan1a.github.io/Quotes/
 
 ## Site
 
@@ -21,7 +21,7 @@ The Web is compatible with devices of all sizes and all OS's, and consistent imp
 
 ![](https://github.com/HASSAN1A/Quotes)
 
-## [Usage](https://hassan1a.github.io/Covid-Updates/)
+## [Usage](https://hassan1a.github.io/Quotes/)
 
 ### Development
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.3.
