@@ -1,4 +1,4 @@
-# Quotes [Quotes](./IMAGES/c6.jpg)
+# Quotes [Quotes]
 
 
   A very interactive  quots web app  that uses forms to let someone view ,add,vote and delete quote and share it with others who may visit the website.
