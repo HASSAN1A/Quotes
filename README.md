@@ -10,7 +10,7 @@ Here is a working live demo :https://hassan1a.github.io/Quotes//
 
 ### Landing Page
 
-This web app starts with a brief introduction on the doubts being cast on the Corona briefings that the figures are not real to cast out the doubts,we came up with this web app whereby this web app is used in each and every hospital where each and every covid patients data is recorded directly to the system and shared centrally to the ministry of health to be used for decision making and cast the doubts out of the public.
+This web app starts with Quotes which can be used by the user .It let the user to vote or delete the Quote and add another quote.
 
 ![](https://github.com/HASSAN1A/Quotes)
 
@@ -23,30 +23,6 @@ The Web is compatible with devices of all sizes and all OS's, and consistent imp
 ## [Usage](https://hassan1a.github.io/Quotes/)
 
 ### Development
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.3.
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 
