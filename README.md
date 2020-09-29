@@ -4,7 +4,7 @@ A very interactive quots web app that uses forms to let someone view ,add,vote a
 
 ## Demo
 
-Here is a working live demo :https://hassan1a.github.io/Quotes//
+Here is a working live demo :https://hassan1a.github.io/Quotes/
 
 ## Site
 
