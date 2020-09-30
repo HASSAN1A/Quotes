@@ -2,7 +2,8 @@ The Star And Thank Author License (SATA)
 
 Copyright (c) [2020] [Hassan Juma](https://https://github.com/HASSAN1A) <okothhassanjuma@gmail.com>
 
-Project Url: This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.2.
+Project Url:https://github.com/HASSAN1A/Quotes
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.2.
 
 ## Development server
 
